@@ -3,8 +3,3 @@ Disallow: /secret/
 Allow: /
 
 # CTF Hint: The flag is hidden in a file that is not meant to be crawled by bots.
-# Look for files outside of the normal paths.
-# Try using directory traversal or inspect hidden directories.
-
-# Flag Hint:
-# /secret/flag.txt
