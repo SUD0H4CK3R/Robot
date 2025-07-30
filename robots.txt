@@ -1,5 +1,5 @@
 User-agent: *
-Disallow: /secret/
+Disallow: /secret/flag.txt
 Allow: /
 
 # CTF Hint: The flag is hidden in a file that is not meant to be crawled by bots.
